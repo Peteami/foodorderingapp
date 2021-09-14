@@ -1,0 +1,16 @@
+.addButton {
+	border-radius: 25px;
+	margin-right: 50px;
+	background-color: rgb(131, 180, 152);
+	color: white;
+	font-size: 1em;
+	padding: 1.25rem 3rem;
+	font-weight: bold;
+	border: none;
+}
+
+.addButton:hover,
+.addButton:active {
+	background-color: #2c0d00;
+	cursor: pointer;
+}
